@@ -468,61 +468,57 @@
 
 
 <section class="ftco-section">
-<div class="container">
-	<div class="row justify-content-center mb-5">
-	<div class="col-md-7 heading-section text-center ftco-animate">
-		<span class="subheading">Blog</span>
-		<h2>Recent Blog</h2>
-	</div>
-	</div>
-	<div class="row d-flex">
-	<div class="col-md-4 d-flex ftco-animate">
-		<div class="blog-entry justify-content-end">
-		<a href="#" class="block-20" style="background-image: url('assets/images/blogs/1.jpg');">
-		</a>
-		<div class="text pt-4">
-			<div class="meta mb-3">
-			<div><a href="#">Dec. 29, 2024</a></div>
-			<!-- <div><a href="#">Admin</a></div> -->
-			<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 8</a></div>
-			</div>
-			<h3 class="heading mt-2"><a href="#">5 Family-Friendly Routes</a></h3>
-			<p><a href="#" class="btn btn-primary">Read more</a></p>
-		</div>
-		</div>
-	</div>
-	<div class="col-md-4 d-flex ftco-animate">
-		<div class="blog-entry justify-content-end">
-		<a href="#" class="block-20" style="background-image: url('assets/images/blogs/2.jpg');">
-		</a>
-		<div class="text pt-4">
-			<div class="meta mb-3">
-			<div><a href="#">Jan. 19, 2025</a></div>
-			<!-- <div><a href="#">Admin</a></div> -->
-			<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-			</div>
-			<h3 class="heading mt-2"><a href="#">Why Lead Generation is Key for Business Growth</a></h3>
-			<p><a href="#" class="btn btn-primary">Read more</a></p>
-		</div>
-		</div>
-	</div>
-	<div class="col-md-4 d-flex ftco-animate">
-		<div class="blog-entry">
-            <a href="#" class="block-20" style="background-image: url('assets/images/blogs/3.jpg');">
-            </a>
-            <div class="text pt-4">
-                <div class="meta mb-3">
-                <div><a href="#">Feb. 12, 2025</a></div>
-                <!-- <div><a href="#">Admin</a></div> -->
-                <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 12</a></div>
-                </div>
-                <h3 class="heading mt-2"><a href="#">Explore The World, Expand Your Mind</a></h3>
-                <p><a href="#" class="btn btn-primary">Read more</a></p>
+    <div class="container">
+        <div class="row justify-content-center mb-3">
+            <div class="col-md-7 heading-section text-center ftco-animate">
+                <span class="subheading">Blog</span>
+                <h2>Recent Blogs</h2>
             </div>
-		</div>
-	</div>
-	</div>
-</div>
+        </div>
+        <div class="row d-flex">
+            <div class="col-md-4 d-flex ftco-animate">
+                <div class="blog-entry justify-content-end">
+                <a href="#" class="block-20" style="background-image: url('assets/images/blogs/4.png');"></a>
+                <div class="text pt-2">
+                    <div class="meta mb-1">
+                    <div><a href="#">Jan. 29, 2025</a></div>    
+                    <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 8</a></div>
+                    </div>
+                    <h3 class="heading mt-0"><a href="#">Top 5 Scenic Routes to Explore in Sri Lanka</a></h3>
+                    <p><a href="#" class="btn btn-primary">Read more</a></p>
+                </div>
+                </div>
+            </div>
+            <div class="col-md-4 d-flex ftco-animate">
+                <div class="blog-entry justify-content-end">
+                <a href="#" class="block-20" style="background-image: url('assets/images/blogs/5.webp');">
+                </a>
+                <div class="text pt-2">
+                    <div class="meta mb-1">
+                    <div><a href="#">Feb. 19, 2025</a></div>
+                    <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                    </div>
+                    <h3 class="heading mt-0"><a href="#">Hidden Gems: Exploring Sri Lanka's Untouched Villages</a></h3>
+                    <p><a href="#" class="btn btn-primary">Read more</a></p>
+                </div>
+                </div>
+            </div>
+            <div class="col-md-4 d-flex ftco-animate">
+                <div class="blog-entry">
+                    <a href="#" class="block-20" style="background-image: url('assets/images/blogs/6.jpg');">
+                    </a>
+                    <div class="text pt-2">
+                        <div class="meta mb-1">
+                        <div><a href="#">Mar. 22, 2025</a></div>
+                        <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 12</a></div>
+                        </div>
+                        <h3 class="heading mt-0"><a href="#">Luxury Resorts vs. Boutique Stays: Where to Stay in Sri Lanka</a></h3>
+                        <p><a href="#" class="btn btn-primary">Read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 
