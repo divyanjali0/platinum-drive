@@ -444,7 +444,6 @@
     </div>
   </div>
 </section>
-<!-- testimony-section ends -->
 
 <script>
 	$(document).ready(function(){
@@ -464,6 +463,7 @@
 		});
 	});
 </script>
+<!-- testimony-section ends -->
 
 
 
@@ -508,19 +508,17 @@
 	</div>
 	<div class="col-md-4 d-flex ftco-animate">
 		<div class="blog-entry">
-		<a href="#" class="block-20" style="background-image: url('assets/images/blogs/3.jpg');">
-		</a>
-		<div class="text pt-4">
-			<div class="meta mb-3">
-			<div><a href="#">Feb. 12, 2025</a></div>
-			<!-- <div><a href="#">Admin</a></div> -->
-			<div><a href="#" class="meta-chat"><span class="icon-chat"></span> 12</a></div>
-			</div>
-			<h3 class="heading mt-2"><a href="#">
-		
-Explore The World, Expand Your Mind</a></h3>
-			<p><a href="#" class="btn btn-primary">Read more</a></p>
-		</div>
+            <a href="#" class="block-20" style="background-image: url('assets/images/blogs/3.jpg');">
+            </a>
+            <div class="text pt-4">
+                <div class="meta mb-3">
+                <div><a href="#">Feb. 12, 2025</a></div>
+                <!-- <div><a href="#">Admin</a></div> -->
+                <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 12</a></div>
+                </div>
+                <h3 class="heading mt-2"><a href="#">Explore The World, Expand Your Mind</a></h3>
+                <p><a href="#" class="btn btn-primary">Read more</a></p>
+            </div>
 		</div>
 	</div>
 	</div>
