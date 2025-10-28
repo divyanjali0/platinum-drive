@@ -8755,8 +8755,9 @@ h1, h2, h3, h4, h5,
         color: #1089ff !important;
         background: transparent !important; }
 
-.pills {
-  margin-top: 40px; }
+/* .pills {
+  margin-top: 40px; 
+} */
   .pills .tab-pane {
     padding: 2em;
     border-top: 1px solid rgba(0, 0, 0, 0.1); }
@@ -10185,7 +10186,7 @@ text-align: center;
 
         .contact-cta {
             text-align: center;
-            margin-top: 60px;
+            margin-top: 36px;
             padding: 20px;
             background: linear-gradient(135deg, rgba(212, 175, 55, 0.1), rgb(244 229 161 / 30%));            
             border-radius: 15px;
