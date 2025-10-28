@@ -10101,3 +10101,150 @@ text-align: center;
 .carousel-testimony {
   perspective: 1200px; 
 }
+
+
+
+        .faq-grid {
+            display: grid;
+            gap: 20px;
+        }
+
+        .faq-item {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgb(212 175 55);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            animation: fadeInUp 0.6s ease forwards;
+            opacity: 0;
+        }
+
+        .faq-item:nth-child(1) { animation-delay: 0.1s; }
+        .faq-item:nth-child(2) { animation-delay: 0.2s; }
+        .faq-item:nth-child(3) { animation-delay: 0.3s; }
+        .faq-item:nth-child(4) { animation-delay: 0.4s; }
+        .faq-item:nth-child(5) { animation-delay: 0.5s; }
+        .faq-item:nth-child(6) { animation-delay: 0.6s; }
+        .faq-item:nth-child(7) { animation-delay: 0.7s; }
+        .faq-item:nth-child(8) { animation-delay: 0.8s; }
+
+        .faq-item:hover {
+            transform: translateY(-5px);
+            border-color: rgba(212, 175, 55, 0.5);
+            box-shadow: 0 10px 30px rgba(212, 175, 55, 0.2);
+        }
+
+        .faq-question {
+            padding: 25px 30px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 18px;
+            font-weight: 700;
+            transition: all 0.3s ease;
+        }
+
+        .faq-question:hover {
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        .faq-icon {
+            width: 30px;
+            height: 30px;
+            background: linear-gradient(135deg, #d4af37, #f4e5a1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            color: #1a1a2e;
+            transition: transform 0.3s ease;
+            flex-shrink: 0;
+            margin-left: 15px;
+        }
+
+        .faq-item.active .faq-icon {
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease, padding 0.4s ease;
+            padding: 0 30px;
+            color: #4d4c4c;
+            line-height: 1.8;
+        }
+
+        .faq-item.active .faq-answer {
+            max-height: 500px;
+            padding: 0 30px 25px 30px;
+        }
+
+        .contact-cta {
+            text-align: center;
+            margin-top: 60px;
+            padding: 20px;
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.1), rgb(244 229 161 / 30%));            
+            border-radius: 15px;
+            border: 1px solid rgb(212 175 55);            
+            animation: fadeIn 1s ease 0.9s forwards;
+            opacity: 0;
+        }
+
+        .contact-cta h2 {
+            font-size: 2rem;
+            margin-bottom: 15px;
+            color: #02224b;
+            font-weight: 700;
+        }
+
+        .contact-cta p {
+          color: #6f6f6f;
+          margin-bottom: 16px;
+          font-size: 18px;
+          font-weight: 600;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 40px;
+            background: #102c4e;
+            color: #fff !important;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            letter-spacing: 1px;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(212, 175, 55, 0.4);
+        }
+
+        @media (max-width: 768px) {
+
+            .faq-question {
+                padding: 20px;
+                font-size: 1rem;
+            }
+
+            .faq-answer {
+                padding: 0 20px;
+            }
+
+            .faq-item.active .faq-answer {
+                padding: 0 20px 20px 20px;
+            }
+
+            .contact-cta {
+                padding: 30px 20px;
+            }
+
+            .contact-cta h2 {
+                font-size: 1.5rem;
+            }
+        }
