@@ -5,7 +5,7 @@
 		<div class="col-md">
 		  <div class="ftco-footer-widget mb-4">
 			<img src="assets/images/logo.png" alt="CarBook Logo" height="100">
-			<p style="text-align: justify; margin-top: 8%;">Platinum Drive Rent a Car offers luxury vehicle rentals for weddings, special events, and corporate travel. With a fleet of high-end cars and professional chauffeurs, we ensure a stylish, comfortable, and memorable experience.</p>
+			<p style="text-align: justify; margin-top: 8%;">Platinum Drive Rent a Car offers premium vehicles for transfers and city travel across Sri Lanka. Our high-end fleet and professional chauffeurs ensure a safe, comfortable, and stylish journey, tailored for business, leisure, or city exploration.</p>
 		 
 		  </div>
 		</div>
