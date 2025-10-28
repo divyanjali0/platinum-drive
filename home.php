@@ -485,7 +485,7 @@
                     <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 8</a></div>
                     </div>
                     <h3 class="heading mt-0"><a href="#">Top 5 Scenic Routes to Explore in Sri Lanka</a></h3>
-                    <p><a href="#" class="btn btn-primary">Read more</a></p>
+                    <p><a href="[[~12]]" class="btn btn-primary">Read more</a></p>
                 </div>
                 </div>
             </div>
@@ -499,7 +499,7 @@
                     <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                     </div>
                     <h3 class="heading mt-0"><a href="#">Hidden Gems: Exploring Sri Lanka's Untouched Villages</a></h3>
-                    <p><a href="#" class="btn btn-primary">Read more</a></p>
+                    <p><a href="[[~11]]" class="btn btn-primary">Read more</a></p>
                 </div>
                 </div>
             </div>
@@ -512,8 +512,8 @@
                         <div><a href="#">Mar. 22, 2025</a></div>
                         <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 12</a></div>
                         </div>
-                        <h3 class="heading mt-0"><a href="#">Luxury Resorts vs. Boutique Stays: Where to Stay in Sri Lanka</a></h3>
-                        <p><a href="#" class="btn btn-primary">Read more</a></p>
+                        <h3 class="heading mt-0"><a href="#">Beaches vs. Mountains: Best Sri Lanka Destinations for Every Traveler</a></h3>
+                        <p><a href="[[~10]]" class="btn btn-primary">Read more</a></p>
                     </div>
                 </div>
             </div>
